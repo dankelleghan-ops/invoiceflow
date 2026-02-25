@@ -159,6 +159,6 @@
     "estimatePrefix": "EST-kelleghan-productions-inc-",
     "currency": "USD",
     "memo": "ACH Payment Details:\nBank: Chase\nBank Address: 270 Park Avenue, New York, NY 10017\nAccount Name: Kelleghan Productions Inc.\nRouting Number: 071000013\nAccount Number: 316751616\nRouting Type: ACH\nAccount Type: Checking\n\nZelle Payment:\ndanielkelleghan@gmail.com\n\nPayment Terms: Net 30 â Payment is due within 30 days of the invoice date.\n\nThank you for your business!",
-    "darkMode": false
+    "darkMode": true
   }
 }
