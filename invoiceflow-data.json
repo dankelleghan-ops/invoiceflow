@@ -41,7 +41,7 @@
       "subtotal": 150,
       "tax": 0,
       "total": 150,
-      "memo": "ACH Payment Details:\nBank: Chase\nBank Address: 270 Park Avenue, New York, NY 10017\nAccount Name: Kelleghan Productions Inc.\nRouting Number: 071000013\nAccount Number: 316751616\nRouting Type: ACH\nAccount Type: Checking\n\nZelle Payment:\ndanielkelleghan@gmail.com\n\nPayment Terms: Net 30 Ã¢ÂÂ Payment is due within 30 days of the invoice date.\n\nThank you for your business!",
+      "memo": "ACH Payment Details:\nBank: Chase\nBank Address: 270 Park Avenue, New York, NY 10017\nAccount Name: Kelleghan Productions Inc.\nRouting Number: 071000013\nAccount Number: 316751616\nRouting Type: ACH\nAccount Type: Checking\n\nZelle Payment:\ndanielkelleghan@gmail.com\n\nPayment Terms: Net 30 ÃÂ¢ÃÂÃÂ Payment is due within 30 days of the invoice date.\n\nThank you for your business!",
       "notes": "",
       "isRecurring": false,
       "status": "sent",
@@ -79,7 +79,7 @@
       "subtotal": 0,
       "tax": 0,
       "total": 0,
-      "memo": "ACH Payment Details:\nBank: Chase\nBank Address: 270 Park Avenue, New York, NY 10017\nAccount Name: Kelleghan Productions Inc.\nRouting Number: 071000013\nAccount Number: 316751616\nRouting Type: ACH\nAccount Type: Checking\n\nZelle Payment:\ndanielkelleghan@gmail.com\n\nPayment Terms: Net 30 Ã¢ÂÂ Payment is due within 30 days of the invoice date.\n\nThank you for your business!",
+      "memo": "ACH Payment Details:\nBank: Chase\nBank Address: 270 Park Avenue, New York, NY 10017\nAccount Name: Kelleghan Productions Inc.\nRouting Number: 071000013\nAccount Number: 316751616\nRouting Type: ACH\nAccount Type: Checking\n\nZelle Payment:\ndanielkelleghan@gmail.com\n\nPayment Terms: Net 30 ÃÂ¢ÃÂÃÂ Payment is due within 30 days of the invoice date.\n\nThank you for your business!",
       "notes": "",
       "isRecurring": false,
       "status": "sent",
@@ -117,7 +117,7 @@
       "subtotal": 253350,
       "tax": 0,
       "total": 253350,
-      "memo": "ACH Payment Details:\nBank: Chase\nBank Address: 270 Park Avenue, New York, NY 10017\nAccount Name: Kelleghan Productions Inc.\nRouting Number: 071000013\nAccount Number: 316751616\nRouting Type: ACH\nAccount Type: Checking\n\nZelle Payment:\ndanielkelleghan@gmail.com\n\nPayment Terms: Net 30 Ã¢ÂÂ Payment is due within 30 days of the invoice date.\n\nThank you for your business!",
+      "memo": "ACH Payment Details:\nBank: Chase\nBank Address: 270 Park Avenue, New York, NY 10017\nAccount Name: Kelleghan Productions Inc.\nRouting Number: 071000013\nAccount Number: 316751616\nRouting Type: ACH\nAccount Type: Checking\n\nZelle Payment:\ndanielkelleghan@gmail.com\n\nPayment Terms: Net 30 ÃÂ¢ÃÂÃÂ Payment is due within 30 days of the invoice date.\n\nThank you for your business!",
       "notes": "",
       "isRecurring": false,
       "status": "sent",
@@ -135,7 +135,6 @@
       "toName": "Kat",
       "toEmail": "hoernig.katrina@gmail.com",
       "toPhone": "2196694771",
-      "toAddress": "1822 S. Halsted St.\nApt. 3\nChicago, IL 60608",
       "invoiceNumber": "INV-kelleghan-productions-inc-5003",
       "date": "2026-02-25",
       "dueDate": "2026-03-27",
@@ -155,12 +154,18 @@
       "subtotal": 150,
       "tax": 0,
       "total": 150,
-      "memo": "ACH Payment Details:\nBank: Chase\nBank Address: 270 Park Avenue, New York, NY 10017\nAccount Name: Kelleghan Productions Inc.\nRouting Number: 071000013\nAccount Number: 316751616\nRouting Type: ACH\nAccount Type: Checking\n\nZelle Payment:\ndanielkelleghan@gmail.com\n\nPayment Terms: Net 30 Ã¢ÂÂ Payment is due within 30 days of the invoice date.\n\nThank you for your business!",
+      "memo": "ACH Payment Details:\nBank: Chase\nBank Address: 270 Park Avenue, New York, NY 10017\nAccount Name: Kelleghan Productions Inc.\nRouting Number: 071000013\nAccount Number: 316751616\nRouting Type: ACH\nAccount Type: Checking\n\nZelle Payment:\ndanielkelleghan@gmail.com\n\nPayment Terms: Net 30 ÃÂ¢ÃÂÃÂ Payment is due within 30 days of the invoice date.\n\nThank you for your business!",
       "notes": "",
       "isRecurring": false,
       "status": "sent",
       "createdAt": "2026-02-25T14:32:57.713Z",
-      "updatedAt": "2026-02-25T14:33:02.962Z"
+      "updatedAt": "2026-02-25T14:33:02.962Z",
+      "toAddress1": "1822 S. Halsted St.",
+      "toAddress2": "Apt. 3",
+      "toCity": "Chicago",
+      "toState": "IL",
+      "toZip": "60608",
+      "toCountry": "US"
     },
     {
       "id": "mm24wwxagf6bmdo",
@@ -173,7 +178,6 @@
       "toName": "Kat",
       "toEmail": "hoernig.katrina@gmail.com",
       "toPhone": "2196694771",
-      "toAddress": "1822 S. Halsted St.\nApt. 3\nChicago, IL 60608",
       "invoiceNumber": "INV-kelleghan-productions-inc-5003",
       "date": "2026-02-25",
       "dueDate": "2026-03-27",
@@ -193,12 +197,18 @@
       "subtotal": 150,
       "tax": 0,
       "total": 150,
-      "memo": "ACH Payment Details:\nBank: Chase\nBank Address: 270 Park Avenue, New York, NY 10017\nAccount Name: Kelleghan Productions Inc.\nRouting Number: 071000013\nAccount Number: 316751616\nRouting Type: ACH\nAccount Type: Checking\n\nZelle Payment:\ndanielkelleghan@gmail.com\n\nPayment Terms: Net 30 Ã¢ÂÂ Payment is due within 30 days of the invoice date.\n\nThank you for your business!",
+      "memo": "ACH Payment Details:\nBank: Chase\nBank Address: 270 Park Avenue, New York, NY 10017\nAccount Name: Kelleghan Productions Inc.\nRouting Number: 071000013\nAccount Number: 316751616\nRouting Type: ACH\nAccount Type: Checking\n\nZelle Payment:\ndanielkelleghan@gmail.com\n\nPayment Terms: Net 30 ÃÂ¢ÃÂÃÂ Payment is due within 30 days of the invoice date.\n\nThank you for your business!",
       "notes": "",
       "isRecurring": false,
       "status": "archived",
       "createdAt": "2026-02-25T14:33:27.982Z",
-      "updatedAt": "2026-02-25T14:33:34.956Z"
+      "updatedAt": "2026-02-25T14:33:34.956Z",
+      "toAddress1": "1822 S. Halsted St.",
+      "toAddress2": "Apt. 3",
+      "toCity": "Chicago",
+      "toState": "IL",
+      "toZip": "60608",
+      "toCountry": "US"
     }
   ],
   "estimates": [],
@@ -218,8 +228,13 @@
       "name": "Kat",
       "email": "hoernig.katrina@gmail.com",
       "phone": "2196694771",
-      "address": "1822 S. Halsted St.\nApt. 3\nChicago, IL 60608",
-      "createdAt": "2026-02-25T14:32:57.713Z"
+      "createdAt": "2026-02-25T14:32:57.713Z",
+      "address1": "1822 S. Halsted St.",
+      "address2": "Apt. 3",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60608",
+      "country": "US"
     }
   ],
   "services": [
@@ -233,6 +248,8 @@
   ],
   "expenses": [],
   "settings": {
+    "darkMode": false,
+    "lastBackupDate": "2026-02-25T14:27:05.018Z",
     "company": "Kelleghan Productions Inc.",
     "name": "Daniel Kelleghan",
     "email": "dankelleghan@gmail.com",
@@ -243,8 +260,7 @@
     "invoicePrefix": "INV-kelleghan-productions-inc-",
     "estimatePrefix": "EST-kelleghan-productions-inc-",
     "currency": "USD",
-    "memo": "ACH Payment Details:\nBank: Chase\nBank Address: 270 Park Avenue, New York, NY 10017\nAccount Name: Kelleghan Productions Inc.\nRouting Number: 071000013\nAccount Number: 316751616\nRouting Type: ACH\nAccount Type: Checking\n\nZelle Payment:\ndanielkelleghan@gmail.com\n\nPayment Terms: Net 30 Ã¢ÂÂ Payment is due within 30 days of the invoice date.\n\nThank you for your business!",
-    "darkMode": false,
-    "lastBackupDate": "2026-02-25T14:27:05.018Z"
+    "memo": "ACH Payment Details:\nBank: Chase\nBank Address: 270 Park Avenue, New York, NY 10017\nAccount Name: Kelleghan Productions Inc.\nRouting Number: 071000013\nAccount Number: 316751616\nRouting Type: ACH\nAccount Type: Checking\n\nZelle Payment:\ndanielkelleghan@gmail.com\n\nPayment Terms: Net 30 ÃÂ¢ÃÂÃÂ Payment is due within 30 days of the invoice date.\n\nThank you for your business!",
+    "paypalMe": "kelleghanproductions"
   }
 }
