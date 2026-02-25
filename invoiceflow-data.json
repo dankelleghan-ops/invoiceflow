@@ -294,7 +294,7 @@
       "isRecurring": false,
       "status": "sent",
       "createdAt": "2026-02-25T15:29:44.236Z",
-      "updatedAt": "2026-02-25T15:49:40.974Z"
+      "updatedAt": "2026-02-25T15:51:45.243Z"
     }
   ],
   "estimates": [],
@@ -334,8 +334,6 @@
   ],
   "expenses": [],
   "settings": {
-    "darkMode": false,
-    "lastBackupDate": "2026-02-25T14:27:05.018Z",
     "company": "Kelleghan Productions Inc.",
     "name": "Daniel Kelleghan",
     "email": "dankelleghan@gmail.com",
@@ -347,6 +345,8 @@
     "estimatePrefix": "EST-kelleghan-productions-inc-",
     "currency": "USD",
     "memo": "ACH Payment Details:\nBank: Chase\nBank Address: 270 Park Avenue, New York, NY 10017\nAccount Name: Kelleghan Productions Inc.\nRouting Number: 071000013\nAccount Number: 316751616\nRouting Type: ACH\nAccount Type: Checking\n\nZelle Payment:\ndanielkelleghan@gmail.com\n\nPayment Terms: Net 30\n\nThank you for your business!",
+    "darkMode": false,
+    "lastBackupDate": "2026-02-25T14:27:05.018Z",
     "paypalMe": "kelleghanproductions"
   }
 }
